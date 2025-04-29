@@ -1,2 +1,3 @@
 # rs485HAT
-rs485 hat pcb for raspberryPi Cad data
+RS485通信HAT基板のCADデータです。
+WindowsのKicad ver8.0.6で作成しています。
