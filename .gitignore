@@ -1,0 +1,24 @@
+# KiCad automatic backups and temporary files
+*-backups/
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+*~
+~*
+_autosave-*
+\#auto_saved_files\#
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+
+# Footprint cache and local project settings
+fp-info-cache
+*.kicad_prl
+
+# Local history
+.history/
+
+# macOS metadata
+.DS_Store
